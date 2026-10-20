@@ -1,0 +1,13 @@
+MUTUAL NON-DISCLOSURE AND SERVICE AGREEMENT
+
+Date: October 20, 2026
+Party A: Alpha Cryptographic Solutions Ltd.
+Party B: Beta Educational Foundation
+
+Scope of Work:
+Party A agrees to provide blockchain ledger prototyping and digital document verification architecture.
+Total Agreed Value: $12,500 USD payable upon milestone completion.
+Governing Law: Academic Prototype Guidelines
+
+Authorized Signature:
+[Signed Digitally - SHA-256 Ledger Record Pending]

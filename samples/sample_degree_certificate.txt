@@ -1,0 +1,13 @@
+UNIVERSITY OF ADVANCED TECHNOLOGY
+ACADEMIC DEGREE CERTIFICATE
+
+This is to certify that:
+Candidate Name: Alice Johnson
+Student ID: CS-2026-8941
+Program: Bachelor of Technology in Computer Science and Engineering
+Cumulative Grade Point Average (CGPA): 9.42 / 10.00
+Award Date: 2026-06-15
+
+Verification Note:
+This document is cryptographically fingerprinted using SHA-256 and sealed on the SecureDoc Blockchain.
+Any unauthorized modification of names, dates, or grades will invalidate the digital hash.
